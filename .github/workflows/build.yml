@@ -11,4 +11,4 @@ jobs:
         with:
           isabelle-version: '2021-1'
           custom-isabelle-url: 'https://github.com/lexbailey/itrees_isabelle_fork/archive/refs/heads/itrees_utp.zip'
-          session-name: 'Explorer Shallow-Expressions UTP2 ITree_RoboChart ITree_Simulation ITree_UTP ITree_VCG Z_Machines'
+          session-name: 'Explorer Shallow-Expressions UTP2 ITree_RoboChart ITree_Simulation ITree_UTP ITree_VCG Z_Machines UTP-Designs'
